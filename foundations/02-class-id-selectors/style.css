@@ -1,0 +1,8 @@
+.sponge {
+    background-color:#d89aa2
+    font-family: 'Verdana', sans-serif;
+}
+
+.sponge.bob {
+    font-size: 30px
+}
