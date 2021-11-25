@@ -1,8 +1,19 @@
 .sponge {
-    background-color:#d89aa2
+    background-color:#d89ca4;
     font-family: 'Verdana', sans-serif;
 }
 
 .sponge.bob {
-    font-size: 30px
+    font-size: 34px;
+}
+
+#patrick {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#squidward {
+    background-color: #64e464;
+    font-weight: bold;
+    font-weight: 24px;
 }
